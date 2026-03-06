@@ -1,5 +1,11 @@
 # react-simplikit
 
+## 0.0.49
+
+### Patch Changes
+
+- [#219](https://github.com/toss/react-simplikit/pull/219) [`2a901bb`](https://github.com/toss/react-simplikit/commit/2a901bb903f4663571c7649769d3e29c9e844332) Thanks [@sukvvon](https://github.com/sukvvon)! - feat(core/hooks): add 'useIsClient' hook
+
 ## 0.0.48
 
 ### Patch Changes
